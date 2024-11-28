@@ -1,0 +1,33 @@
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 150px;
+    border: 2.5px solid rgb(122, 17, 122);
+}
+
+.caja1{
+    background-color: antiquewhite;
+    padding: 15px;
+    border: 1.5px solid violet;
+}
+.caja2{
+    background-color: antiquewhite;
+    padding: 15px;
+    border: 1.5px solid violet;
+}
+.caja3{
+    background-color: antiquewhite;
+    padding: 15px;
+    border: 1.5px solid violet;
+}
+.grid-1{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    grid-template-rows: auto 1fr auto;
+    grid-template-areas: "header Vertin"
+    "sedebar content" "footer 4";
+    gap: 10px;
+    height: 100vh;
+}
