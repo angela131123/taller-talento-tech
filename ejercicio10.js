@@ -1,5 +1,5 @@
 let count = 0;
-const counterDisplay = document.getElementById('counter');
+const counterDisplay = document.getElementById('contador');
 
 function increaseCounter() {
     count++;
