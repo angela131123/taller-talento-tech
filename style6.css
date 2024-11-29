@@ -1,20 +1,48 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
 body {
     font-family: Arial, sans-serif;
+    background-color: #e9baba;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
 }
+
 
 h1 {
-    color: darkblue;
-    font-size: 24px;
+    text-align: center;
+    font-size: 2.5rem;
+    color: #2c3e50;
+    margin-bottom: 20px;
 }
 
+
 .descripcion {
-    color: #333;
-    font-size: 16px;
-    margin: 20px 0;
+    text-align: center;
+    font-size: 1.2rem;
+    color: #7f8c8d;
+    margin-bottom: 30px;
 }
 
 .caja {
-    border: 2px solid black;
-    padding: 10px;
-    margin: 15px;
+    background-color: #89d7eb;
+    border: 2px solid #aeea8b;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+
+.caja p {
+    font-size: 1rem;
+    color: #090908;
+    text-align: center;
 }
