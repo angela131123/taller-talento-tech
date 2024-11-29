@@ -1,0 +1,59 @@
+Etiquetas semánticas para texto 
+
+
+ 1=<BR> Etiqueta utilizada para crear un salto de línea
+
+ 2=<a> </a> Etiqueta utilizada para crear hiperenlaces en el documento HTML2
+
+ 3=<small> </small> Utilizada para dejar un comentario aparte, del tipo una nota de derechos de autoría, u otros textos que no son esenciales para la comprensión del documento.
+
+ 4=<mark> </mark> Usada para resaltar texto
+
+ 5=<cite> </cite> Para indicar el título de una obra
+
+
+
+Etiquetas para incrustar contenido
+
+
+ 6=<img> Etiqueta para «pintar» una imagen en la página web.
+
+ 7=<video> </video> Se usa para reproducir video en la página web junto a sus archivos de audio y capciones asociadas.
+
+
+
+Etiquetas para la creación de tablas
+
+
+ 8=<table> </table> Etiquetas de apertura y cierre de una tabla. El resto de etiquetas de la tabla han de ir siempre recogidas entre estas dos etiquetas.
+<form> </form> Etiqueta de apertura y cierre de un formulario de una página web. El resto de etiquetas de formulario deben ir siempre recogidas entre estas etiquetas de apertura y cierre de formulario
+
+ 9=<caption> </caption> Usada para indicar el título de la tabla.
+
+ 10=<tr> </tr> Se usa para indicar una fila de celdas de una tabla.
+
+ 11=<td> </td> Usada para definir una celda de una tabla.
+
+ 12=<th> </th> Etiqueta que se usa para definir el encabezado de una celda
+
+ 13=<tbody> </tbody> Usada para describir los datos concretos de una tabla.
+
+
+
+Etiquetas para la creación de formularios
+
+
+ 14=<form> </form> Etiqueta de apertura y cierre de un formulario de una página web. El resto de etiquetas de formulario deben ir siempre recogidas entre estas etiquetas de apertura y cierre de formulario.
+
+ 15=<label> </label> Se usa para definir el nombre o título de un control del formulario.
+
+ 16=<input> Pinta un campo de introducción de datos para el usuario. Es de las principales etiquetas de un formulario.
+
+ 17=<button> </button> Etiqueta utilizada para representar un botón en el formulario.
+
+ 18=<select> </select> Input que permite una selección entre un conjunto de opciones.
+
+ 19=<textarea> </textarea> Añade un campo al usuario para que pueda introducir texto en unas líneas máximas de texto que el desarrollador puede definir.
+Conclusión
+
+ 20=<fieldset> </fieldset> Etiqueta que representa un conjunto o agrupación de elementos de un formulario. «Pinta» un recuadro alrededor de las etiquetas que estén contenidas dentro del <fieldset>

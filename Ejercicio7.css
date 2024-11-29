@@ -1,0 +1,40 @@
+#titulo {
+    color: #000000;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Selectores de clase */
+.contenido {
+    background-color: #a1dbee;
+    border: 1px solid #7cd4f4;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.subtitulo {
+    color: #4fa8c4;
+}
+
+.texto {
+    color: #555;
+}
+
+/* Pseudo-clases */
+.enlace {
+    color: #1d85ab;
+    text-decoration: none;
+}
+
+.enlace:hover {
+    color: #d6877f;
+    text-decoration: underline;
+}
+
+/* Estilo para el pie de página */
+#footer-texto {
+    text-align: center;
+    margin-top: 40px;
+    color: #777;
+}
